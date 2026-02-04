@@ -15,28 +15,28 @@ For failed test cases it will take a screenshot aswell at the point of failure.
 
 ### Module:
 
-*Login (valid & invalid scenarios)
-*Add Item (positive & negative scenarios)
-*Profile Update (including profile image upload)
-*Reset Password (mismatched passwords, unregistered email, empty fields)
-*Register (duplicate email, weak password, empty fields)
+* Login (valid & invalid scenarios)
+* Add Item (positive & negative scenarios)
+* Profile Update (including profile image upload)
+* Reset Password (mismatched passwords, unregistered email, empty fields)
+* Register (duplicate email, weak password, empty fields)
 
 ### Data Handling:
 
-*Used JSON files to store test data
-*Used Faker to generate random user data for testing.
+* Used JSON files to store test data
+* Used Faker to generate random user data for testing.
 
 ### Automation Flow:
 
-*Tests run sequentially: Register → Login → Add Item → Profile Update → Reset Password .
-*Handled dynamic data (like last registered user) and verified results in the UI.
+* Tests run sequentially: Register → Login → Add Item → Profile Update → Reset Password .
+* Handled dynamic data (like last registered user) and verified results in the UI.
 
 ### Advanced Features:
 
-*Verified toast messages, tooltips, and dynamic content.
-*Managed tokens/session for login reuse across tests.
-*Included API testing for some endpoints using Playwright’s request context.
-*Screenshot & debugging on failure for better visibility
+* Verified toast messages, tooltips, and dynamic content.
+* Managed tokens/session for login reuse across tests.
+* Included API testing for some endpoints using Playwright’s request context.
+* Screenshot & debugging on failure for better visibility
 
 ### Technology:
 
