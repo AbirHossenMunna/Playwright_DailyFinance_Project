@@ -57,7 +57,7 @@ For failed test cases it will take a screenshot aswell at the point of failure.
   npx playwright test
 ```
 #### Here is the Negative Test Case Link:
-* [![Test Case](https://docs.google.com/spreadsheets/d/1rmZehwORNwKmH_WuI7QY3Rz4scTAqsMMwDyu-T5Fun4/edit?gid=0#gid=0)]
+* [Test Case Sheet](https://docs.google.com/spreadsheets/d/1rmZehwORNwKmH_WuI7QY3Rz4scTAqsMMwDyu-T5Fun4/edit?usp=sharing)
 
 #### Here is the OverView Allure report:
 <img width="1919" height="918" alt="Screenshot 2026-02-04 040232" src="https://github.com/user-attachments/assets/5dc3ede1-603a-419e-bc3d-1056f2c2726c" />
