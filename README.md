@@ -1,4 +1,4 @@
-# DailyFinance_TestNG_Automation
+# DailyFinance_Playwright_Automation
 
 ### This is a complete project where a DailyFinance site is automated by writing test suites using Playwright as testing framework.
 The following key modules/pages are automated:
